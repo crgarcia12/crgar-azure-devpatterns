@@ -1,0 +1,1 @@
+# crgar-azure-devpatterns
